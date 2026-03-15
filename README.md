@@ -50,6 +50,11 @@ npm install
 npm run dev
 ```
 
+**Default Login:**
+- **Username:** `admin`
+- **Password:** `change-this-password`
+*(You can change these in your `backend/.env` file)*
+
 ### 4. Reddit App Registration
 1. Go to https://www.reddit.com/prefs/apps
 2. Click "create another app..."
